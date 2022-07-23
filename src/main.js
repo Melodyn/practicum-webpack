@@ -1,4 +1,5 @@
 import './style.css';
+import favicon from './practicum.png';
 import iconClose from './close.svg';
 import { join } from './join.js';
 
