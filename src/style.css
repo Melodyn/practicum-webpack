@@ -1,0 +1,14 @@
+.container {
+  display: grid;
+  width: min-content;
+}
+
+.hello {
+  color: red;
+}
+
+.background {
+  width: 100px;
+  height: 100px;
+  background: url('./practicum.png');
+}
