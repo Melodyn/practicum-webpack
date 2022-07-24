@@ -10,5 +10,5 @@
 .background {
   width: 100px;
   height: 100px;
-  background: url('./practicum.png');
+  background: url('./practicum.png'); /* подключаем изображение в CSS */
 }
